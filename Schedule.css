@@ -1,0 +1,24 @@
+/*
+* Hannah Solge 
+* Due Date
+* Project Name and Description
+*/
+
+/* The university selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+   background-color: skyblue/*this give the whole background a light blue color */
+}
+table, td, th {border: 1px solid darkblue; }
+/* this is the color of the lines that go between the cells */
+table {border-collapse: collapse; }
+
+thead {background-color: cornflowerblue; } /* this showes the color of of the frist two lines or the head of the table */
+tbody {background-color: blue} /* this color appears in the body of the table */
+tfoot {background-color: cadetblue; } /* this is the color of the foot or the last row */
